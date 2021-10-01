@@ -65,7 +65,7 @@ header('Content-Type: text/html; charset=UTF-8');
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
-<title>Vulnerable Mama Shop - 易受攻击的妈妈商店</title>
+<title>TOCCO</title>
 </head>
 <body>
 
@@ -95,7 +95,7 @@ if($validate === false )
 ?>    
 
 <h3>Customer Login Here<br>
-<small>用户登录</small>
+<small>TOCCO</small>
 </h3>
  
 <form action="login.php" method="POST" class="w-50">
